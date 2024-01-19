@@ -1,0 +1,10 @@
+/*!*************************************************************!*\
+  !*** css ../node_modules/css-loader/dist/cjs.js!./main.css ***!
+  \*************************************************************/
+.twitter-logo {
+  width: 200px;
+  height: 200px;
+  background: url("/[object%20Module]") no-repeat;
+  background-size: contain;
+}
+

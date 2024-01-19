@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="webpack" type="NodeJSConfigurationType" application-parameters="--config webpack.config.js" path-to-js-file="./node_modules/webpack-cli/bin/cli.js" working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>
